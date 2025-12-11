@@ -30,6 +30,7 @@ body{
     margin-top: 20px;
     margin-left: 20px;
     display: flex;
+    position: static;
 }
 
 .kira{
@@ -78,6 +79,7 @@ body .border2{
     margin-top: 20px;
     margin-left: 20px;
     display: flex;
+    position: static;
 }
 
 .kira1{
@@ -127,6 +129,7 @@ body .border3{
     margin-top: 20px;
     margin-left: 20px;
     display: flex;
+    position: static;
 }
 
 .kira2{
@@ -174,6 +177,7 @@ body .border4{
     margin-top: 20px;
     margin-left: 20px;
     display: flex;
+    position: static;
 }
 
 .kira3{
@@ -222,6 +226,7 @@ body .border5{
     margin-top: 20px;
     margin-left: 20px;
     display: flex;
+    position: static;
 }
 
 .kira4{
